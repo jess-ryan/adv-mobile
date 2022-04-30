@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   bookData.plist
+   lab4-extra-credit
+
+   Created by Jess Ryan on 4/30/22.
+   Copyright (c) 2022 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>
+            <string>Dream Town</string>
+        <key>url</key>
+            <string>https://www.goodreads.com/en/book/show/58684532-dream-town</string>
+    </dict>
+    <dict>
+        <key>name</key>
+            <string>Beautiful</string>
+        <key>url</key>
+            <string>https://www.amazon.com/dp/1984821644?tag=NYTBSREV-20</string>
+    </dict>
+    <dict>
+        <key>name</key>
+            <string>It Ends with us</string>
+        <key>url</key>
+            <string>https://www.amazon.com/Ends-Us-Novel-Colleen-Hoover-ebook/dp/B0176M3U10?tag=NYTBSREV-20</string>
+    </dict>
+    <dict>
+        <key>name</key>
+            <string>The Seven Husbands of Evelyn Hugo</string>
+        <key>url</key>
+            <string>https://www.amazon.com/dp/1501161938?tag=NYTBSREV-20</string>
+    </dict>
+    <dict>
+        <key>name</key>
+            <string>Where the Crawdads Sing</string>
+        <key>url</key>
+            <string>https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=NYTBSREV-20</string>
+    </dict>
+
+</array>
+</plist>
